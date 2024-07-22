@@ -1,1 +1,8 @@
+nav:
+ - Home: index.md
+
 site_name: My Docs
+site_url: https://codexya.github.io/
+
+repo_name: CodeXYA/CodeXYA.github.io
+repo_url: https://github.com/CodeXYA/CodeXYA.github.io
